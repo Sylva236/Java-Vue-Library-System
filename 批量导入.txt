@@ -1,0 +1,20 @@
+[
+    {
+        "category": "小说",
+        "title": "三体",
+        "press": "重庆出版社",
+        "publishYear": 2008,
+        "author": "刘慈欣",
+        "price": 45.00,
+        "stock": 10
+    },
+    {
+        "category": "编程",
+        "title": "Java核心技术",
+        "press": "机械工业出版社",
+        "publishYear": 2020,
+        "author": "Cay S. Horstmann",
+        "price": 149.00,
+        "stock": 5
+    }
+]
